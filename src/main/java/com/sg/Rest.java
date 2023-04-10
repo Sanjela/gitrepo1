@@ -10,7 +10,7 @@ public class Rest {
 	public String test()
 	{
 		
-		return ("Welcome to Git Hub");
+		return ("Testing again after editing the code");
 	}
 
 }
