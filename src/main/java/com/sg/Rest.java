@@ -10,7 +10,7 @@ public class Rest {
 	public String test()
 	{
 		
-		return ("Testing the CI & CD");
+		return ("Testing the CI & CD using Jenkins");
 	}
 
 }
