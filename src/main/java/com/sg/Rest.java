@@ -10,7 +10,7 @@ public class Rest {
 	public String test()
 	{
 		
-		return ("Testing again after editing the code and pushing changes to git");
+		return ("Testing the CI & CD");
 	}
 
 }
